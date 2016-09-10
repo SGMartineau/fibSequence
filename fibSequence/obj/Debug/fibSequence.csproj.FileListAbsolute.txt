@@ -1,1 +1,6 @@
 c:\users\scott\documents\visual studio 2015\Projects\fibSequence\fibSequence\bin\Debug\fibSequence.exe.config
+c:\users\scott\documents\visual studio 2015\Projects\fibSequence\fibSequence\bin\Debug\fibSequence.exe
+c:\users\scott\documents\visual studio 2015\Projects\fibSequence\fibSequence\bin\Debug\fibSequence.pdb
+c:\users\scott\documents\visual studio 2015\Projects\fibSequence\fibSequence\obj\Debug\fibSequence.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2015\Projects\fibSequence\fibSequence\obj\Debug\fibSequence.exe
+c:\users\scott\documents\visual studio 2015\Projects\fibSequence\fibSequence\obj\Debug\fibSequence.pdb
